@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "StoreprocedureinView", "StoreprocedureinView\StoreprocedureinView.sqlproj", "{22105964-0507-4E01-A723-1C9B9BB375EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22105964-0507-4E01-A723-1C9B9BB375EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22105964-0507-4E01-A723-1C9B9BB375EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22105964-0507-4E01-A723-1C9B9BB375EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{22105964-0507-4E01-A723-1C9B9BB375EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22105964-0507-4E01-A723-1C9B9BB375EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22105964-0507-4E01-A723-1C9B9BB375EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8420E3B2-7245-464C-BD9E-3DD061B6CFDF}
+	EndGlobalSection
+EndGlobal
